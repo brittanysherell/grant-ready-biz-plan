@@ -32,3 +32,4 @@ class Config:
  MAX_TOKENS: int = 2048
  TEMPERATURE: float = 0.7
 config = Config()
+
