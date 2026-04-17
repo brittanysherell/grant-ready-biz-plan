@@ -1,0 +1,89 @@
+{
+  "industries": {
+    "food_service": {
+      "label": "Food Service (Restaurant, Food Truck, Catering, Bakery)",
+      "tips": [
+        "Include your food safety certifications and permits",
+        "Mention your health inspection scores if they're good",
+        "Food cost should ideally be 28-35% of your menu price",
+        "Include seasonal menu variations if applicable"
+      ],
+      "common_grants": [
+        "USDA Value-Added Producer Grants",
+        "Local Small Business Development Center (SBDC) micro-grants",
+        "State agricultural development grants"
+      ]
+    },
+    "beauty_wellness": {
+      "label": "Beauty & Wellness (Salon, Barbershop, Spa, Fitness)",
+      "tips": [
+        "Highlight your cosmetology or barbering license",
+        "Include client retention rates if you track them",
+        "Mention any continuing education or specialty certifications",
+        "Product costs typically run 8-15% of service revenue"
+      ],
+      "common_grants": [
+        "SBA Microloans (up to $50,000)",
+        "Minority Business Development Agency grants",
+        "Local community development financial institutions (CDFIs)"
+      ]
+    },
+    "home_services": {
+      "label": "Home Services (Cleaning, Landscaping, Handyman, Pest Control)",
+      "tips": [
+        "Include your insurance coverage details",
+        "Mention any bonding or licensing",
+        "Track and share your average job completion time",
+        "Customer acquisition cost in this industry is typically $50-150"
+      ],
+      "common_grants": [
+        "SBA Community Advantage Loans",
+        "State workforce development grants",
+        "Local economic development incentives"
+      ]
+    },
+    "retail": {
+      "label": "Retail (Boutique, Online Store, Market Vendor)",
+      "tips": [
+        "Include your inventory turnover rate if you know it",
+        "Mention your supplier relationships",
+        "E-commerce? Include your shipping strategy and costs",
+        "Typical retail markup is 50-100% (keystone pricing)"
+      ],
+      "common_grants": [
+        "SBA 7(a) Loans for inventory",
+        "State main street development grants",
+        "Buy-local community development grants"
+      ]
+    },
+    "professional_services": {
+      "label": "Professional Services (Consulting, Coaching, Marketing, Tax Prep)",
+      "tips": [
+        "Your expertise IS the product — highlight credentials heavily",
+        "Include case studies or client results if possible",
+        "Typical margins for services are 50-80%",
+        "Mention your professional liability insurance"
+      ],
+      "common_grants": [
+        "SBA SCORE mentorship programs",
+        "State innovation and technology grants",
+        "Chamber of Commerce small business awards"
+      ]
+    },
+    "childcare_education": {
+      "label": "Childcare & Education (Daycare, Tutoring, Training)",
+      "tips": [
+        "Include all relevant licenses and certifications",
+        "Mention staff-to-child ratios if applicable",
+        "Include safety protocols and background check policies",
+        "This sector has strong grant opportunities — highlight community impact"
+      ],
+      "common_grants": [
+        "Child Care and Development Fund (CCDF) grants",
+        "Head Start collaboration grants",
+        "State early childhood education grants",
+        "Afterschool Alliance grants"
+      ]
+    }
+  }
+}
