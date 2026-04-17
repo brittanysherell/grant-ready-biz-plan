@@ -1,0 +1,22 @@
+{
+  "examples": [
+    {
+      "business_type": "Mobile Hair Salon",
+      "section": "executive_summary",
+      "user_answer": "I do hair out of my van. I drive to people's houses, mostly elderly folks who can't get to a salon. I've been doing it about 2 years in Atlanta.",
+      "refined_output": "GlamOnWheels is a mobile hair salon serving the greater Atlanta metropolitan area, specializing in at-home hair care services for elderly and mobility-impaired clients. Founded in 2024, the business addresses a critical gap in personal care accessibility by bringing professional salon services directly to clients' homes via a fully equipped mobile salon vehicle. Over the past two years, GlamOnWheels has built a loyal client base of over 60 regular customers, demonstrating strong demand for accessible beauty services in an aging population."
+    },
+    {
+      "business_type": "Food Truck",
+      "section": "financial_projections",
+      "user_answer": "I make about $3000 a month from the truck. My costs are like $1800 - food, gas, the truck payment, insurance. I want to be at $6000 a month by next year.",
+      "refined_output": "Taco Rey currently generates approximately $3,000 in monthly revenue, with operating expenses of $1,800 per month — including food supplies, fuel, vehicle financing, and insurance — yielding a monthly net income of approximately $1,200. The company projects revenue growth to $6,000 per month within 12 months, driven by the addition of a second daily service location and a weekend catering offering. With proportional cost increases estimated at $3,200 per month, this would yield projected monthly net income of $2,800, representing a 133% increase in profitability."
+    },
+    {
+      "business_type": "Cleaning Service",
+      "section": "marketing_plan",
+      "user_answer": "Mostly word of mouth. My customers tell their friends. I have an Instagram but I don't post much. I put up flyers at the laundromat sometimes.",
+      "refined_output": "SparkleClean Co. currently acquires new customers primarily through word-of-mouth referrals from satisfied clients, supplemented by a social media presence on Instagram and community-based marketing through flyer distribution at local businesses. To accelerate growth, the company plans to implement a structured referral program offering existing clients a 15% discount for each successful referral. Additionally, SparkleClean will increase its Instagram posting frequency to three times per week, showcasing before-and-after photos and client testimonials. The company will allocate $150 per month toward targeted local advertising, including boosted social media posts and partnerships with neighborhood community boards."
+    }
+  ]
+}
