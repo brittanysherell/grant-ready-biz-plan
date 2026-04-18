@@ -98,7 +98,7 @@ grant-ready-biz-plan/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/grant-ready-biz-plan.git
+git clone https://github.com/brittanysherell/grant-ready-biz-plan.git
 cd grant-ready-biz-plan
 ```
 
